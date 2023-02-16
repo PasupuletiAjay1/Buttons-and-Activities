@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buttons and Activities</string>
+    <string name="button1">Activity-A</string>
+    <string name="button2">Activity-B</string>
+    <string name="button3">Activity-C</string>
+    <string name="activityA">Activity-A Selected</string>
+    <string name="activityB">Activity-B Selected</string>
+    <string name="activityC">Activity-C Selected</string>
+    <string name="mainActivity">Back to Main Activity</string>
+</resources>
